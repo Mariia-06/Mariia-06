@@ -1,0 +1,36 @@
+* {
+  margin: 10px;
+  padding: 0px;
+}
+
+body {
+  background-color: pink;
+  font-family: Verdana;
+  float: left;
+  font-size: 100%;
+  width: 90%;
+  text-align: justify
+}
+
+#container {
+  width: 80%;
+  margin: 0px auto;
+}
+
+#p_texto1 {
+  background: #039ee6;
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+#separacion {
+  clear: both;
+}
+
+#texto2 {
+  width: 75%;
+  background-color: red;
+  float: right;
+  font-size: 200%;
+  text-align: justify;
+}
