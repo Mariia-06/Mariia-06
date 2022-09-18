@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello World!</title>
+</head>
+<body>
+     <script type="text/javascript">
+     alert ('Hello World!');
+     </script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pais,continente,antiguedad</title>
+</head>
+<body>
+   <script type="text/javascript">
+    alert ('Pais,continente, antiguedad');
+    </script>
+</body>
+</html>
+
+<!DOCTYLE html>
+<html>
+<head>
+<body>
+     <script type="text/javascript">
+     alert ('ingrese su pais');
+     </script>
+     
+     <script type="text/javascript">
+      alert('ingrese su continente');
+     </script>
+    
+    <script type="text/javascript">
+    alert('ingrese su antiguedad');
+    </script>
+</body>
+</html>
+
